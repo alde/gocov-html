@@ -1,0 +1,4 @@
+github.com/axw/gocov v0.0.0-20170322000131-3a69a0d2a4ef h1:kh7Fi8sfEY7aCl42VEEvGv7lez2YCOmO120N1fASWGc=
+github.com/axw/gocov v0.0.0-20170322000131-3a69a0d2a4ef/go.mod h1:pc6XrbIn8RLeVSNzXCZKXNst+RTE5Ju/nySYl1Wc0B4=
+github.com/matm/gocov-html v0.0.0-20160206185555-f6dd0fd0ebc7 h1:IpusRbIZ1Z5j96YpxRD7vTwpfR7Cv3vgETmilcHF5BE=
+github.com/matm/gocov-html v0.0.0-20160206185555-f6dd0fd0ebc7/go.mod h1:2amKdhwK7Jz2kRhLYmUH2NIOeBs6Tmhpy5UgDXhRbHc=
